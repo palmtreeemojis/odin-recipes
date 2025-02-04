@@ -2,4 +2,4 @@
 
 The Odin Project - Recipes
 
-THis is the first assignment of TOP, focusing on HTML.
+This is the first assignment of TOP, focusing on HTML.
